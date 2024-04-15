@@ -1,7 +1,7 @@
 雙語詞彙資料庫 (公告詞彙，機關建議詞彙) `public-terms`
 ==================
 
- * Source: http://terms.naer.edu.tw/downloadlist/
+ * Source: https://terms.naer.edu.tw/download/
 
 ### How to start
 
